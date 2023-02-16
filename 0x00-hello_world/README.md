@@ -1,1 +1,1 @@
-the script compiles C file but does not link
+the script generate assembly code and save it in another file
