@@ -1,1 +1,1 @@
-the program last digit of number stored in variable n
+the program alphabet in lowercase, followed by a new line
