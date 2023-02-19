@@ -1,1 +1,1 @@
-the program prints lower case alphabet in reverse order
+the program print hexadecimal number in lower case
