@@ -1,1 +1,1 @@
-the program print hexadecimal number in lower case
+program print combination of all single digits
