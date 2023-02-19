@@ -10,7 +10,7 @@ int main(void)
 	int I;
 	char alp[6] = "abcdef";
 
-	for (i = 0; i < 6; i++)
+	for (i = 0; i < 10; i++)
 	{
 	putchar((i % 10) + '0');
 	}
