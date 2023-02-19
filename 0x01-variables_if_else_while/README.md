@@ -1,1 +1,1 @@
-program print combination of all single digits
+print possible combination of two digits
