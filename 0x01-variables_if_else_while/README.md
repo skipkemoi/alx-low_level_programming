@@ -1,1 +1,1 @@
-the program checks if number is positive or negative
+the program last digit of number stored in variable n
