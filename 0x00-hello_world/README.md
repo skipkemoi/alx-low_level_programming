@@ -1,1 +1,1 @@
-the script creates assembly code and save it in output file
+prints c code followed by new line
