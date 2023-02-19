@@ -1,1 +1,1 @@
-the script compile C and creates executable named cisfun
+the script creates assembly code and save it in output file
