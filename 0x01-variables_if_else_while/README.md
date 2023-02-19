@@ -1,1 +1,1 @@
-the program print single digit base 10 numbers
+the program prints lower case alphabet in reverse order
