@@ -16,7 +16,7 @@ int main(void)
 	}
 	for (I = 0; I < 6; I++)
 	{
-	purchar(alp[I]);
+	putchar(alp[I]);
 	}
 	putchar('\n');
 	return (0);
