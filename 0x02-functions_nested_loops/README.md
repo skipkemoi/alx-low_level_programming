@@ -1,1 +1,1 @@
-the program print _putchar
+print last digit
