@@ -6,9 +6,9 @@
  * @argv: the array of arguments
  * Return: 0 (success)
  */
-int main(argc, char *argv[])
+int main(int argc, char *argv[])
 {
-	(void)argv
+	(void)argv;
 		printf("the number of argument passed is %d\n", argc - 1);
 	return (0);
 }
