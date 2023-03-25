@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib>
+#include <stdlib.h>
 /**
  * create_array - create the array of size size and assign char
  * @size: size of character
